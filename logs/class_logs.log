@@ -1,0 +1,43 @@
+2024-06-20 22:22:35,990 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:22:36,431 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:22:36,686 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:22:36,686 - Checking All Spells
+2024-06-20 22:22:36,686 - Checking All Lineages
+2024-06-20 22:22:36,686 - Checking All Lineages
+2024-06-20 22:22:36,687 - Checking Heroic Chronicle
+2024-06-20 22:22:36,687 - Checking The Artificer
+2024-06-20 22:22:36,687 - Checking The Artificer
+2024-06-20 22:22:36,687 - Checking The Barbarian
+2024-06-20 22:22:36,687 - Checking The Barbarian
+2024-06-20 22:22:36,687 - Checking The Bard
+2024-06-20 22:22:36,687 - Checking The Bard
+2024-06-20 22:22:36,687 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:22:36,687 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:22:36,687 - Checking The Cleric
+2024-06-20 22:22:36,687 - Checking The Cleric
+2024-06-20 22:22:36,687 - Checking The Druid
+2024-06-20 22:22:36,687 - Checking The Druid
+2024-06-20 22:22:36,687 - Checking The Fighter
+2024-06-20 22:22:36,687 - Checking The Fighter
+2024-06-20 22:22:36,687 - Checking The Monk
+2024-06-20 22:22:36,687 - Checking The Monk
+2024-06-20 22:22:36,687 - Checking The Paladin
+2024-06-20 22:22:36,687 - Checking The Paladin
+2024-06-20 22:22:36,688 - Checking The Ranger
+2024-06-20 22:22:36,688 - Checking The Ranger
+2024-06-20 22:22:36,688 - Checking The Rogue
+2024-06-20 22:22:36,688 - Checking The Rogue
+2024-06-20 22:22:36,688 - Checking The Sorcerer
+2024-06-20 22:22:36,688 - Checking The Sorcerer
+2024-06-20 22:22:36,688 - Checking The Warlock
+2024-06-20 22:22:36,688 - Checking The Warlock
+2024-06-20 22:22:36,688 - Checking The Wizard
+2024-06-20 22:22:36,688 - Checking The Wizard
+2024-06-20 22:22:36,688 - Checking Items
+2024-06-20 22:22:36,688 - Checking Feats
+2024-06-20 22:22:36,688 - Checking Feats
+2024-06-20 22:22:36,688 - Checking Racial Feats
+2024-06-20 22:22:36,688 - Checking Racial Feats
+2024-06-20 22:22:36,688 - Checking Miscellaneous
+2024-06-20 22:22:36,688 - Checking Homebrew Subclasses
+2024-06-20 22:22:36,689 - Checking Archived Unearthed Arcana

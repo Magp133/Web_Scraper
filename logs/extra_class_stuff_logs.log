@@ -1,0 +1,14 @@
+2024-03-30 17:15:13,391 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:13,843 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-03-30 17:15:14,111 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:14,559 - http://dnd5e.wikidot.com:80 "GET /artificer:infusions HTTP/1.1" 200 None
+2024-03-30 17:15:14,581 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:15,049 - http://dnd5e.wikidot.com:80 "GET /blood-hunter:blood-curse HTTP/1.1" 200 None
+2024-03-30 17:15:15,066 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:15,519 - http://dnd5e.wikidot.com:80 "GET /blood-hunter:mutagens HTTP/1.1" 200 None
+2024-03-30 17:15:15,534 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:15,958 - http://dnd5e.wikidot.com:80 "GET /fighter:battle-master:maneuvers HTTP/1.1" 200 None
+2024-03-30 17:15:15,975 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:16,493 - http://dnd5e.wikidot.com:80 "GET /monk:four-elements:disciplines HTTP/1.1" 200 None
+2024-03-30 17:15:16,508 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-03-30 17:15:16,938 - http://dnd5e.wikidot.com:80 "GET /warlock:eldritch-invocations HTTP/1.1" 200 None

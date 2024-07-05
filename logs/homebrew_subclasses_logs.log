@@ -1,0 +1,998 @@
+2024-06-20 22:26:04,559 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:26:04,988 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:26:05,250 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:26:05,251 - Checking All Spells
+2024-06-20 22:26:05,251 - Checking All Lineages
+2024-06-20 22:26:05,251 - Checking All Lineages
+2024-06-20 22:26:05,251 - Checking Heroic Chronicle
+2024-06-20 22:26:05,251 - Checking The Artificer
+2024-06-20 22:26:05,251 - Checking The Artificer
+2024-06-20 22:26:05,251 - Checking The Barbarian
+2024-06-20 22:26:05,251 - Checking The Barbarian
+2024-06-20 22:26:05,251 - Checking The Bard
+2024-06-20 22:26:05,251 - Checking The Bard
+2024-06-20 22:26:05,251 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:26:05,252 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:26:05,252 - Checking The Cleric
+2024-06-20 22:26:05,252 - Checking The Cleric
+2024-06-20 22:26:05,252 - Checking The Druid
+2024-06-20 22:26:05,252 - Checking The Druid
+2024-06-20 22:26:05,252 - Checking The Fighter
+2024-06-20 22:26:05,252 - Checking The Fighter
+2024-06-20 22:26:05,252 - Checking The Monk
+2024-06-20 22:26:05,252 - Checking The Monk
+2024-06-20 22:26:05,252 - Checking The Paladin
+2024-06-20 22:26:05,252 - Checking The Paladin
+2024-06-20 22:26:05,252 - Checking The Ranger
+2024-06-20 22:26:05,252 - Checking The Ranger
+2024-06-20 22:26:05,252 - Checking The Rogue
+2024-06-20 22:26:05,252 - Checking The Rogue
+2024-06-20 22:26:05,252 - Checking The Sorcerer
+2024-06-20 22:26:05,252 - Checking The Sorcerer
+2024-06-20 22:26:05,252 - Checking The Warlock
+2024-06-20 22:26:05,252 - Checking The Warlock
+2024-06-20 22:26:05,252 - Checking The Wizard
+2024-06-20 22:26:05,253 - Checking The Wizard
+2024-06-20 22:26:05,253 - Checking Items
+2024-06-20 22:26:05,253 - Checking Feats
+2024-06-20 22:26:05,253 - Checking Feats
+2024-06-20 22:26:05,253 - Checking Racial Feats
+2024-06-20 22:26:05,253 - Checking Racial Feats
+2024-06-20 22:26:05,253 - Checking Miscellaneous
+2024-06-20 22:26:05,253 - Checking Homebrew Subclasses
+2024-06-20 22:26:05,253 - Found Artificer
+2024-06-20 22:26:05,253 - Found Barbarian
+2024-06-20 22:26:05,253 - Found Bard
+2024-06-20 22:26:05,253 - Found Cleric
+2024-06-20 22:26:05,253 - Found Druid
+2024-06-20 22:26:05,253 - Found Fighter
+2024-06-20 22:26:05,253 - Found Monk
+2024-06-20 22:26:05,254 - Found Paladin
+2024-06-20 22:26:05,254 - Found Ranger
+2024-06-20 22:26:05,254 - Found Rogue
+2024-06-20 22:26:05,254 - Found Sorcerer
+2024-06-20 22:26:05,254 - Found Warlock
+2024-06-20 22:26:05,254 - Found Wizard
+2024-06-20 22:26:05,254 - Checking Archived Unearthed Arcana
+2024-06-20 22:27:38,208 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:27:38,658 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:27:38,926 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:27:38,926 - Checking All Spells
+2024-06-20 22:27:38,926 - Checking All Lineages
+2024-06-20 22:27:38,926 - Checking All Lineages
+2024-06-20 22:27:38,927 - Checking Heroic Chronicle
+2024-06-20 22:27:38,927 - Checking The Artificer
+2024-06-20 22:27:38,927 - Checking The Artificer
+2024-06-20 22:27:38,927 - Checking The Barbarian
+2024-06-20 22:27:38,927 - Checking The Barbarian
+2024-06-20 22:27:38,927 - Checking The Bard
+2024-06-20 22:27:38,927 - Checking The Bard
+2024-06-20 22:27:38,927 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:27:38,927 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:27:38,927 - Checking The Cleric
+2024-06-20 22:27:38,927 - Checking The Cleric
+2024-06-20 22:27:38,927 - Checking The Druid
+2024-06-20 22:27:38,927 - Checking The Druid
+2024-06-20 22:27:38,927 - Checking The Fighter
+2024-06-20 22:27:38,927 - Checking The Fighter
+2024-06-20 22:27:38,927 - Checking The Monk
+2024-06-20 22:27:38,927 - Checking The Monk
+2024-06-20 22:27:38,927 - Checking The Paladin
+2024-06-20 22:27:38,927 - Checking The Paladin
+2024-06-20 22:27:38,928 - Checking The Ranger
+2024-06-20 22:27:38,928 - Checking The Ranger
+2024-06-20 22:27:38,928 - Checking The Rogue
+2024-06-20 22:27:38,928 - Checking The Rogue
+2024-06-20 22:27:38,928 - Checking The Sorcerer
+2024-06-20 22:27:38,928 - Checking The Sorcerer
+2024-06-20 22:27:38,928 - Checking The Warlock
+2024-06-20 22:27:38,928 - Checking The Warlock
+2024-06-20 22:27:38,928 - Checking The Wizard
+2024-06-20 22:27:38,928 - Checking The Wizard
+2024-06-20 22:27:38,928 - Checking Items
+2024-06-20 22:27:38,928 - Checking Feats
+2024-06-20 22:27:38,928 - Checking Feats
+2024-06-20 22:27:38,928 - Checking Racial Feats
+2024-06-20 22:27:38,928 - Checking Racial Feats
+2024-06-20 22:27:38,928 - Checking Miscellaneous
+2024-06-20 22:27:38,928 - Checking Homebrew Subclasses
+2024-06-20 22:27:38,929 - Found Artificer
+2024-06-20 22:27:38,929 - Found Forge Adept
+2024-06-20 22:28:58,752 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:28:59,189 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:28:59,453 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:28:59,453 - Checking All Spells
+2024-06-20 22:28:59,453 - Checking All Lineages
+2024-06-20 22:28:59,453 - Checking All Lineages
+2024-06-20 22:28:59,454 - Checking Heroic Chronicle
+2024-06-20 22:28:59,454 - Checking The Artificer
+2024-06-20 22:28:59,454 - Checking The Artificer
+2024-06-20 22:28:59,454 - Checking The Barbarian
+2024-06-20 22:28:59,454 - Checking The Barbarian
+2024-06-20 22:28:59,454 - Checking The Bard
+2024-06-20 22:28:59,454 - Checking The Bard
+2024-06-20 22:28:59,454 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:28:59,454 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:28:59,454 - Checking The Cleric
+2024-06-20 22:28:59,454 - Checking The Cleric
+2024-06-20 22:28:59,454 - Checking The Druid
+2024-06-20 22:28:59,454 - Checking The Druid
+2024-06-20 22:28:59,454 - Checking The Fighter
+2024-06-20 22:28:59,454 - Checking The Fighter
+2024-06-20 22:28:59,454 - Checking The Monk
+2024-06-20 22:28:59,455 - Checking The Monk
+2024-06-20 22:28:59,455 - Checking The Paladin
+2024-06-20 22:28:59,455 - Checking The Paladin
+2024-06-20 22:28:59,455 - Checking The Ranger
+2024-06-20 22:28:59,455 - Checking The Ranger
+2024-06-20 22:28:59,455 - Checking The Rogue
+2024-06-20 22:28:59,455 - Checking The Rogue
+2024-06-20 22:28:59,455 - Checking The Sorcerer
+2024-06-20 22:28:59,455 - Checking The Sorcerer
+2024-06-20 22:28:59,455 - Checking The Warlock
+2024-06-20 22:28:59,455 - Checking The Warlock
+2024-06-20 22:28:59,455 - Checking The Wizard
+2024-06-20 22:28:59,455 - Checking The Wizard
+2024-06-20 22:28:59,455 - Checking Items
+2024-06-20 22:28:59,455 - Checking Feats
+2024-06-20 22:28:59,455 - Checking Feats
+2024-06-20 22:28:59,455 - Checking Racial Feats
+2024-06-20 22:28:59,455 - Checking Racial Feats
+2024-06-20 22:28:59,456 - Checking Miscellaneous
+2024-06-20 22:28:59,456 - Checking Homebrew Subclasses
+2024-06-20 22:28:59,456 - Found Artificer
+2024-06-20 22:28:59,456 - Found Forge Adept
+2024-06-20 22:28:59,456 - Getting class features for /artificer:forge-adept
+2024-06-20 22:28:59,457 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:28:59,925 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:28:59,947 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:28:59,948 - Found Mastermaker
+2024-06-20 22:28:59,948 - Getting class features for /artificer:mastermaker
+2024-06-20 22:28:59,950 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:00,399 - http://dnd5e.wikidot.com:80 "GET /artificer:mastermaker HTTP/1.1" 200 None
+2024-06-20 22:29:00,415 - Finished getting http://dnd5e.wikidot.com/artificer:mastermaker features
+2024-06-20 22:29:00,415 - Found Maverick
+2024-06-20 22:29:00,415 - Getting class features for /artificer:maverick
+2024-06-20 22:29:00,418 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:00,873 - http://dnd5e.wikidot.com:80 "GET /artificer:maverick HTTP/1.1" 200 None
+2024-06-20 22:29:00,885 - Finished getting http://dnd5e.wikidot.com/artificer:maverick features
+2024-06-20 22:29:00,886 - Found Barbarian
+2024-06-20 22:29:00,886 - Found Path of the Juggernaut
+2024-06-20 22:29:00,886 - Getting class features for /barbarian:juggernaut
+2024-06-20 22:29:00,888 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:01,529 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut HTTP/1.1" 200 None
+2024-06-20 22:29:01,557 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut features
+2024-06-20 22:29:01,557 - Found Path of the Juggernaut Reborn
+2024-06-20 22:29:01,557 - Getting class features for /barbarian:juggernaut-reborn
+2024-06-20 22:29:01,560 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:02,027 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut-reborn HTTP/1.1" 200 None
+2024-06-20 22:29:02,054 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut-reborn features
+2024-06-20 22:29:02,054 - Found Path of the Depths
+2024-06-20 22:29:02,054 - Getting class features for /barbarian:path-of-the-depths-pc
+2024-06-20 22:29:02,056 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:02,517 - http://dnd5e.wikidot.com:80 "GET /barbarian:path-of-the-depths-pc HTTP/1.1" 200 None
+2024-06-20 22:29:02,531 - Finished getting http://dnd5e.wikidot.com/barbarian:path-of-the-depths-pc features
+2024-06-20 22:29:02,531 - Found Bard
+2024-06-20 22:29:02,531 - Found College of the Dirge Singer
+2024-06-20 22:29:02,531 - Getting class features for /bard:dirge-singer
+2024-06-20 22:29:02,533 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:02,994 - http://dnd5e.wikidot.com:80 "GET /bard:dirge-singer HTTP/1.1" 200 None
+2024-06-20 22:29:03,005 - Finished getting http://dnd5e.wikidot.com/bard:dirge-singer features
+2024-06-20 22:29:03,005 - Found College of the Maestro
+2024-06-20 22:29:03,005 - Getting class features for /bard:maestro
+2024-06-20 22:29:03,006 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:03,472 - http://dnd5e.wikidot.com:80 "GET /bard:maestro HTTP/1.1" 200 None
+2024-06-20 22:29:03,485 - Finished getting http://dnd5e.wikidot.com/bard:maestro features
+2024-06-20 22:29:03,486 - Found College of Tragedy
+2024-06-20 22:29:03,486 - Getting class features for /bard:tragedy
+2024-06-20 22:29:03,488 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:04,043 - http://dnd5e.wikidot.com:80 "GET /bard:tragedy HTTP/1.1" 200 None
+2024-06-20 22:29:04,056 - Finished getting http://dnd5e.wikidot.com/bard:tragedy features
+2024-06-20 22:29:04,057 - Found Cleric
+2024-06-20 22:29:04,057 - Found Beauty Domain
+2024-06-20 22:29:04,057 - Getting class features for /cleric:beauty-hb
+2024-06-20 22:29:04,060 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:04,638 - http://dnd5e.wikidot.com:80 "GET /cleric:beauty-hb HTTP/1.1" 200 None
+2024-06-20 22:29:04,653 - Finished getting http://dnd5e.wikidot.com/cleric:beauty-hb features
+2024-06-20 22:29:04,653 - Found Blood Domain
+2024-06-20 22:29:04,653 - Getting class features for /cleric:blood
+2024-06-20 22:29:04,656 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:05,248 - http://dnd5e.wikidot.com:80 "GET /cleric:blood HTTP/1.1" 200 None
+2024-06-20 22:29:05,261 - Finished getting http://dnd5e.wikidot.com/cleric:blood features
+2024-06-20 22:29:05,261 - Found Blood Domain Reborn
+2024-06-20 22:29:05,261 - Getting class features for /cleric:blood-reborn
+2024-06-20 22:29:05,263 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:05,765 - http://dnd5e.wikidot.com:80 "GET /cleric:blood-reborn HTTP/1.1" 200 None
+2024-06-20 22:29:05,774 - Finished getting http://dnd5e.wikidot.com/cleric:blood-reborn features
+2024-06-20 22:29:05,774 - Found Mind Domain
+2024-06-20 22:29:05,774 - Getting class features for /cleric:mind
+2024-06-20 22:29:05,777 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:06,375 - http://dnd5e.wikidot.com:80 "GET /cleric:mind HTTP/1.1" 200 None
+2024-06-20 22:29:06,390 - Finished getting http://dnd5e.wikidot.com/cleric:mind features
+2024-06-20 22:29:06,390 - Found Moon Domain
+2024-06-20 22:29:06,390 - Getting class features for /cleric:moon
+2024-06-20 22:29:06,392 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:06,845 - http://dnd5e.wikidot.com:80 "GET /cleric:moon HTTP/1.1" 200 None
+2024-06-20 22:29:06,864 - Finished getting http://dnd5e.wikidot.com/cleric:moon features
+2024-06-20 22:29:06,865 - Found Druid
+2024-06-20 22:29:06,865 - Found Circle of the Blighted
+2024-06-20 22:29:06,865 - Getting class features for /druid:blighted
+2024-06-20 22:29:06,866 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:07,313 - http://dnd5e.wikidot.com:80 "GET /druid:blighted HTTP/1.1" 200 None
+2024-06-20 22:29:07,331 - Finished getting http://dnd5e.wikidot.com/druid:blighted features
+2024-06-20 22:29:07,332 - Found Circle of the Forged
+2024-06-20 22:29:07,332 - Getting class features for /druid:forged-hb
+2024-06-20 22:29:07,334 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:07,795 - http://dnd5e.wikidot.com:80 "GET /druid:forged-hb HTTP/1.1" 200 None
+2024-06-20 22:29:07,808 - Finished getting http://dnd5e.wikidot.com/druid:forged-hb features
+2024-06-20 22:29:07,808 - Found Fighter
+2024-06-20 22:29:07,808 - Found Gunslinger
+2024-06-20 22:29:07,808 - Getting class features for /fighter:gunslinger
+2024-06-20 22:29:07,810 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:08,423 - http://dnd5e.wikidot.com:80 "GET /fighter:gunslinger HTTP/1.1" 200 None
+2024-06-20 22:29:08,436 - Finished getting http://dnd5e.wikidot.com/fighter:gunslinger features
+2024-06-20 22:29:08,436 - Found Renegade
+2024-06-20 22:29:08,437 - Getting class features for /fighter:renegade
+2024-06-20 22:29:08,438 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:08,936 - http://dnd5e.wikidot.com:80 "GET /fighter:renegade HTTP/1.1" 200 None
+2024-06-20 22:29:08,951 - Finished getting http://dnd5e.wikidot.com/fighter:renegade features
+2024-06-20 22:29:08,952 - Found Monk
+2024-06-20 22:29:08,952 - Found Way of the Cobalt Soul
+2024-06-20 22:29:08,952 - Getting class features for /monk:cobalt-soul
+2024-06-20 22:29:08,953 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:09,447 - http://dnd5e.wikidot.com:80 "GET /monk:cobalt-soul HTTP/1.1" 200 None
+2024-06-20 22:29:09,460 - Finished getting http://dnd5e.wikidot.com/monk:cobalt-soul features
+2024-06-20 22:29:09,461 - Found Way of the Living Weapon
+2024-06-20 22:29:09,461 - Getting class features for /monk:living-weapon
+2024-06-20 22:29:09,464 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:09,960 - http://dnd5e.wikidot.com:80 "GET /monk:living-weapon HTTP/1.1" 200 None
+2024-06-20 22:29:09,973 - Finished getting http://dnd5e.wikidot.com/monk:living-weapon features
+2024-06-20 22:29:09,973 - Found Way of the Soul Knife
+2024-06-20 22:29:09,973 - Getting class features for /monk:soul-knife
+2024-06-20 22:29:09,975 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:10,433 - http://dnd5e.wikidot.com:80 "GET /monk:soul-knife HTTP/1.1" 200 None
+2024-06-20 22:29:10,448 - Finished getting http://dnd5e.wikidot.com/monk:soul-knife features
+2024-06-20 22:29:10,448 - Found Paladin
+2024-06-20 22:29:10,448 - Found Oath of the Open Sea
+2024-06-20 22:29:10,448 - Getting class features for /paladin:open-sea
+2024-06-20 22:29:10,450 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:10,989 - http://dnd5e.wikidot.com:80 "GET /paladin:open-sea HTTP/1.1" 200 None
+2024-06-20 22:29:11,002 - Finished getting http://dnd5e.wikidot.com/paladin:open-sea features
+2024-06-20 22:29:11,002 - Found Ranger
+2024-06-20 22:29:11,002 - Found Rogue
+2024-06-20 22:29:11,002 - Found Wild Card
+2024-06-20 22:29:11,002 - Getting class features for /rogue:wild-card
+2024-06-20 22:29:11,003 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:11,500 - http://dnd5e.wikidot.com:80 "GET /rogue:wild-card HTTP/1.1" 200 None
+2024-06-20 22:29:11,513 - Finished getting http://dnd5e.wikidot.com/rogue:wild-card features
+2024-06-20 22:29:11,513 - Found Sorcerer
+2024-06-20 22:29:11,513 - Found Runechild
+2024-06-20 22:29:11,513 - Getting class features for /sorcerer:runechild
+2024-06-20 22:29:11,515 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:12,008 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild HTTP/1.1" 200 None
+2024-06-20 22:29:12,034 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild features
+2024-06-20 22:29:12,034 - Found Runechild Reborn
+2024-06-20 22:29:12,034 - Getting class features for /sorcerer:runechild-reborn
+2024-06-20 22:29:12,036 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:12,622 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild-reborn HTTP/1.1" 200 None
+2024-06-20 22:29:12,636 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild-reborn features
+2024-06-20 22:29:12,636 - Found Warlock
+2024-06-20 22:29:12,636 - Found Kraken
+2024-06-20 22:29:12,636 - Getting class features for /warlock:kraken
+2024-06-20 22:29:12,638 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:13,132 - http://dnd5e.wikidot.com:80 "GET /warlock:kraken HTTP/1.1" 200 None
+2024-06-20 22:29:13,141 - Finished getting http://dnd5e.wikidot.com/warlock:kraken features
+2024-06-20 22:29:13,141 - Found Wizard
+2024-06-20 22:29:13,141 - Found Blood Magic
+2024-06-20 22:29:13,141 - Getting class features for /wizard:blood-magic
+2024-06-20 22:29:13,143 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:29:13,650 - http://dnd5e.wikidot.com:80 "GET /wizard:blood-magic HTTP/1.1" 200 None
+2024-06-20 22:29:13,663 - Finished getting http://dnd5e.wikidot.com/wizard:blood-magic features
+2024-06-20 22:29:13,663 - Checking Archived Unearthed Arcana
+2024-06-20 22:30:51,667 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:30:52,101 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:30:52,364 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:30:52,364 - Checking All Spells
+2024-06-20 22:30:52,364 - Checking All Lineages
+2024-06-20 22:30:52,364 - Checking All Lineages
+2024-06-20 22:30:52,364 - Checking Heroic Chronicle
+2024-06-20 22:30:52,365 - Checking The Artificer
+2024-06-20 22:30:52,365 - Checking The Artificer
+2024-06-20 22:30:52,365 - Checking The Barbarian
+2024-06-20 22:30:52,365 - Checking The Barbarian
+2024-06-20 22:30:52,365 - Checking The Bard
+2024-06-20 22:30:52,365 - Checking The Bard
+2024-06-20 22:30:52,365 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:30:52,365 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:30:52,365 - Checking The Cleric
+2024-06-20 22:30:52,365 - Checking The Cleric
+2024-06-20 22:30:52,365 - Checking The Druid
+2024-06-20 22:30:52,365 - Checking The Druid
+2024-06-20 22:30:52,365 - Checking The Fighter
+2024-06-20 22:30:52,365 - Checking The Fighter
+2024-06-20 22:30:52,365 - Checking The Monk
+2024-06-20 22:30:52,365 - Checking The Monk
+2024-06-20 22:30:52,365 - Checking The Paladin
+2024-06-20 22:30:52,365 - Checking The Paladin
+2024-06-20 22:30:52,365 - Checking The Ranger
+2024-06-20 22:30:52,366 - Checking The Ranger
+2024-06-20 22:30:52,366 - Checking The Rogue
+2024-06-20 22:30:52,366 - Checking The Rogue
+2024-06-20 22:30:52,366 - Checking The Sorcerer
+2024-06-20 22:30:52,366 - Checking The Sorcerer
+2024-06-20 22:30:52,366 - Checking The Warlock
+2024-06-20 22:30:52,366 - Checking The Warlock
+2024-06-20 22:30:52,366 - Checking The Wizard
+2024-06-20 22:30:52,366 - Checking The Wizard
+2024-06-20 22:30:52,366 - Checking Items
+2024-06-20 22:30:52,366 - Checking Feats
+2024-06-20 22:30:52,366 - Checking Feats
+2024-06-20 22:30:52,366 - Checking Racial Feats
+2024-06-20 22:30:52,366 - Checking Racial Feats
+2024-06-20 22:30:52,366 - Checking Miscellaneous
+2024-06-20 22:30:52,366 - Checking Homebrew Subclasses
+2024-06-20 22:30:52,367 - Found Artificer
+2024-06-20 22:30:52,367 - Found Forge Adept
+2024-06-20 22:30:52,367 - Getting class features for /artificer:forge-adept
+2024-06-20 22:30:52,368 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:30:52,833 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:30:52,848 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:31:40,223 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:31:40,652 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:31:40,911 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:31:40,911 - Checking All Spells
+2024-06-20 22:31:40,911 - Checking All Lineages
+2024-06-20 22:31:40,912 - Checking All Lineages
+2024-06-20 22:31:40,912 - Checking Heroic Chronicle
+2024-06-20 22:31:40,912 - Checking The Artificer
+2024-06-20 22:31:40,912 - Checking The Artificer
+2024-06-20 22:31:40,912 - Checking The Barbarian
+2024-06-20 22:31:40,912 - Checking The Barbarian
+2024-06-20 22:31:40,912 - Checking The Bard
+2024-06-20 22:31:40,912 - Checking The Bard
+2024-06-20 22:31:40,912 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:31:40,912 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:31:40,912 - Checking The Cleric
+2024-06-20 22:31:40,912 - Checking The Cleric
+2024-06-20 22:31:40,913 - Checking The Druid
+2024-06-20 22:31:40,913 - Checking The Druid
+2024-06-20 22:31:40,913 - Checking The Fighter
+2024-06-20 22:31:40,913 - Checking The Fighter
+2024-06-20 22:31:40,913 - Checking The Monk
+2024-06-20 22:31:40,913 - Checking The Monk
+2024-06-20 22:31:40,913 - Checking The Paladin
+2024-06-20 22:31:40,913 - Checking The Paladin
+2024-06-20 22:31:40,913 - Checking The Ranger
+2024-06-20 22:31:40,913 - Checking The Ranger
+2024-06-20 22:31:40,913 - Checking The Rogue
+2024-06-20 22:31:40,913 - Checking The Rogue
+2024-06-20 22:31:40,913 - Checking The Sorcerer
+2024-06-20 22:31:40,913 - Checking The Sorcerer
+2024-06-20 22:31:40,913 - Checking The Warlock
+2024-06-20 22:31:40,913 - Checking The Warlock
+2024-06-20 22:31:40,913 - Checking The Wizard
+2024-06-20 22:31:40,913 - Checking The Wizard
+2024-06-20 22:31:40,913 - Checking Items
+2024-06-20 22:31:40,913 - Checking Feats
+2024-06-20 22:31:40,913 - Checking Feats
+2024-06-20 22:31:40,914 - Checking Racial Feats
+2024-06-20 22:31:40,914 - Checking Racial Feats
+2024-06-20 22:31:40,914 - Checking Miscellaneous
+2024-06-20 22:31:40,914 - Checking Homebrew Subclasses
+2024-06-20 22:31:40,914 - Found Artificer
+2024-06-20 22:31:40,914 - Found Forge Adept
+2024-06-20 22:31:40,914 - Getting class features for /artificer:forge-adept
+2024-06-20 22:31:40,916 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:31:41,375 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:31:41,391 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:31:50,877 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:31:51,345 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:31:51,695 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:31:51,695 - Checking All Spells
+2024-06-20 22:31:51,695 - Checking All Lineages
+2024-06-20 22:31:51,695 - Checking All Lineages
+2024-06-20 22:31:51,696 - Checking Heroic Chronicle
+2024-06-20 22:31:51,696 - Checking The Artificer
+2024-06-20 22:31:51,696 - Checking The Artificer
+2024-06-20 22:31:51,696 - Checking The Barbarian
+2024-06-20 22:31:51,696 - Checking The Barbarian
+2024-06-20 22:31:51,696 - Checking The Bard
+2024-06-20 22:31:51,696 - Checking The Bard
+2024-06-20 22:31:51,696 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:31:51,696 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:31:51,696 - Checking The Cleric
+2024-06-20 22:31:51,696 - Checking The Cleric
+2024-06-20 22:31:51,696 - Checking The Druid
+2024-06-20 22:31:51,696 - Checking The Druid
+2024-06-20 22:31:51,697 - Checking The Fighter
+2024-06-20 22:31:51,697 - Checking The Fighter
+2024-06-20 22:31:51,697 - Checking The Monk
+2024-06-20 22:31:51,697 - Checking The Monk
+2024-06-20 22:31:51,697 - Checking The Paladin
+2024-06-20 22:31:51,697 - Checking The Paladin
+2024-06-20 22:31:51,697 - Checking The Ranger
+2024-06-20 22:31:51,697 - Checking The Ranger
+2024-06-20 22:31:51,697 - Checking The Rogue
+2024-06-20 22:31:51,697 - Checking The Rogue
+2024-06-20 22:31:51,697 - Checking The Sorcerer
+2024-06-20 22:31:51,697 - Checking The Sorcerer
+2024-06-20 22:31:51,697 - Checking The Warlock
+2024-06-20 22:31:51,697 - Checking The Warlock
+2024-06-20 22:31:51,697 - Checking The Wizard
+2024-06-20 22:31:51,697 - Checking The Wizard
+2024-06-20 22:31:51,697 - Checking Items
+2024-06-20 22:31:51,697 - Checking Feats
+2024-06-20 22:31:51,697 - Checking Feats
+2024-06-20 22:31:51,698 - Checking Racial Feats
+2024-06-20 22:31:51,698 - Checking Racial Feats
+2024-06-20 22:31:51,698 - Checking Miscellaneous
+2024-06-20 22:31:51,698 - Checking Homebrew Subclasses
+2024-06-20 22:31:51,698 - Found Artificer
+2024-06-20 22:31:51,698 - Found Forge Adept
+2024-06-20 22:31:51,698 - Getting class features for /artificer:forge-adept
+2024-06-20 22:31:51,699 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:31:52,188 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:31:52,203 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:33:05,488 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:33:05,996 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:33:06,350 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:33:06,350 - Checking All Spells
+2024-06-20 22:33:06,350 - Checking All Lineages
+2024-06-20 22:33:06,350 - Checking All Lineages
+2024-06-20 22:33:06,350 - Checking Heroic Chronicle
+2024-06-20 22:33:06,350 - Checking The Artificer
+2024-06-20 22:33:06,350 - Checking The Artificer
+2024-06-20 22:33:06,350 - Checking The Barbarian
+2024-06-20 22:33:06,350 - Checking The Barbarian
+2024-06-20 22:33:06,351 - Checking The Bard
+2024-06-20 22:33:06,351 - Checking The Bard
+2024-06-20 22:33:06,351 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:33:06,351 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:33:06,351 - Checking The Cleric
+2024-06-20 22:33:06,351 - Checking The Cleric
+2024-06-20 22:33:06,351 - Checking The Druid
+2024-06-20 22:33:06,351 - Checking The Druid
+2024-06-20 22:33:06,351 - Checking The Fighter
+2024-06-20 22:33:06,351 - Checking The Fighter
+2024-06-20 22:33:06,351 - Checking The Monk
+2024-06-20 22:33:06,351 - Checking The Monk
+2024-06-20 22:33:06,351 - Checking The Paladin
+2024-06-20 22:33:06,351 - Checking The Paladin
+2024-06-20 22:33:06,351 - Checking The Ranger
+2024-06-20 22:33:06,351 - Checking The Ranger
+2024-06-20 22:33:06,351 - Checking The Rogue
+2024-06-20 22:33:06,351 - Checking The Rogue
+2024-06-20 22:33:06,351 - Checking The Sorcerer
+2024-06-20 22:33:06,351 - Checking The Sorcerer
+2024-06-20 22:33:06,351 - Checking The Warlock
+2024-06-20 22:33:06,352 - Checking The Warlock
+2024-06-20 22:33:06,352 - Checking The Wizard
+2024-06-20 22:33:06,352 - Checking The Wizard
+2024-06-20 22:33:06,352 - Checking Items
+2024-06-20 22:33:06,352 - Checking Feats
+2024-06-20 22:33:06,352 - Checking Feats
+2024-06-20 22:33:06,352 - Checking Racial Feats
+2024-06-20 22:33:06,352 - Checking Racial Feats
+2024-06-20 22:33:06,352 - Checking Miscellaneous
+2024-06-20 22:33:06,352 - Checking Homebrew Subclasses
+2024-06-20 22:33:06,352 - Found Artificer
+2024-06-20 22:33:06,352 - Found Forge Adept
+2024-06-20 22:33:06,352 - Found Mastermaker
+2024-06-20 22:33:06,352 - Found Maverick
+2024-06-20 22:33:06,352 - Found Barbarian
+2024-06-20 22:33:06,352 - Found Path of the Juggernaut
+2024-06-20 22:33:06,352 - Found Path of the Juggernaut Reborn
+2024-06-20 22:33:06,352 - Found Path of the Depths
+2024-06-20 22:33:06,353 - Found Bard
+2024-06-20 22:33:06,353 - Found College of the Dirge Singer
+2024-06-20 22:33:06,353 - Found College of the Maestro
+2024-06-20 22:33:06,353 - Found College of Tragedy
+2024-06-20 22:33:06,353 - Found Cleric
+2024-06-20 22:33:06,353 - Found Beauty Domain
+2024-06-20 22:33:06,353 - Found Blood Domain
+2024-06-20 22:33:06,353 - Found Blood Domain Reborn
+2024-06-20 22:33:06,353 - Found Mind Domain
+2024-06-20 22:33:06,353 - Found Moon Domain
+2024-06-20 22:33:06,353 - Found Druid
+2024-06-20 22:33:06,353 - Found Circle of the Blighted
+2024-06-20 22:33:06,353 - Found Circle of the Forged
+2024-06-20 22:33:06,353 - Found Fighter
+2024-06-20 22:33:06,353 - Found Gunslinger
+2024-06-20 22:33:06,353 - Found Renegade
+2024-06-20 22:33:06,353 - Found Monk
+2024-06-20 22:33:06,353 - Found Way of the Cobalt Soul
+2024-06-20 22:33:06,353 - Found Way of the Living Weapon
+2024-06-20 22:33:06,353 - Found Way of the Soul Knife
+2024-06-20 22:33:06,353 - Found Paladin
+2024-06-20 22:33:06,353 - Found Oath of the Open Sea
+2024-06-20 22:33:06,353 - Found Ranger
+2024-06-20 22:33:06,353 - Found Rogue
+2024-06-20 22:33:06,353 - Found Wild Card
+2024-06-20 22:33:06,353 - Found Sorcerer
+2024-06-20 22:33:06,353 - Found Runechild
+2024-06-20 22:33:06,353 - Found Runechild Reborn
+2024-06-20 22:33:06,353 - Found Warlock
+2024-06-20 22:33:06,353 - Found Kraken
+2024-06-20 22:33:06,353 - Found Wizard
+2024-06-20 22:33:06,353 - Found Blood Magic
+2024-06-20 22:33:06,354 - Checking Archived Unearthed Arcana
+2024-06-20 22:33:18,976 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:33:19,428 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:33:19,681 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:33:19,681 - Checking All Spells
+2024-06-20 22:33:19,681 - Checking All Lineages
+2024-06-20 22:33:19,681 - Checking All Lineages
+2024-06-20 22:33:19,682 - Checking Heroic Chronicle
+2024-06-20 22:33:19,682 - Checking The Artificer
+2024-06-20 22:33:19,682 - Checking The Artificer
+2024-06-20 22:33:19,682 - Checking The Barbarian
+2024-06-20 22:33:19,682 - Checking The Barbarian
+2024-06-20 22:33:19,682 - Checking The Bard
+2024-06-20 22:33:19,682 - Checking The Bard
+2024-06-20 22:33:19,682 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:33:19,682 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:33:19,682 - Checking The Cleric
+2024-06-20 22:33:19,682 - Checking The Cleric
+2024-06-20 22:33:19,682 - Checking The Druid
+2024-06-20 22:33:19,682 - Checking The Druid
+2024-06-20 22:33:19,682 - Checking The Fighter
+2024-06-20 22:33:19,682 - Checking The Fighter
+2024-06-20 22:33:19,682 - Checking The Monk
+2024-06-20 22:33:19,682 - Checking The Monk
+2024-06-20 22:33:19,682 - Checking The Paladin
+2024-06-20 22:33:19,682 - Checking The Paladin
+2024-06-20 22:33:19,683 - Checking The Ranger
+2024-06-20 22:33:19,683 - Checking The Ranger
+2024-06-20 22:33:19,683 - Checking The Rogue
+2024-06-20 22:33:19,683 - Checking The Rogue
+2024-06-20 22:33:19,683 - Checking The Sorcerer
+2024-06-20 22:33:19,683 - Checking The Sorcerer
+2024-06-20 22:33:19,683 - Checking The Warlock
+2024-06-20 22:33:19,683 - Checking The Warlock
+2024-06-20 22:33:19,683 - Checking The Wizard
+2024-06-20 22:33:19,683 - Checking The Wizard
+2024-06-20 22:33:19,683 - Checking Items
+2024-06-20 22:33:19,683 - Checking Feats
+2024-06-20 22:33:19,683 - Checking Feats
+2024-06-20 22:33:19,683 - Checking Racial Feats
+2024-06-20 22:33:19,683 - Checking Racial Feats
+2024-06-20 22:33:19,683 - Checking Miscellaneous
+2024-06-20 22:33:19,683 - Checking Homebrew Subclasses
+2024-06-20 22:33:19,684 - Found Artificer
+2024-06-20 22:33:19,684 - Found Forge Adept
+2024-06-20 22:33:19,684 - Found Mastermaker
+2024-06-20 22:33:19,684 - Found Maverick
+2024-06-20 22:33:19,684 - Found Barbarian
+2024-06-20 22:33:19,684 - Found Path of the Juggernaut
+2024-06-20 22:33:19,684 - Found Path of the Juggernaut Reborn
+2024-06-20 22:33:19,684 - Found Path of the Depths
+2024-06-20 22:33:19,684 - Found Bard
+2024-06-20 22:33:19,684 - Found College of the Dirge Singer
+2024-06-20 22:33:19,684 - Found College of the Maestro
+2024-06-20 22:33:19,684 - Found College of Tragedy
+2024-06-20 22:33:19,684 - Found Cleric
+2024-06-20 22:33:19,684 - Found Beauty Domain
+2024-06-20 22:33:19,684 - Found Blood Domain
+2024-06-20 22:33:19,684 - Found Blood Domain Reborn
+2024-06-20 22:33:19,684 - Found Mind Domain
+2024-06-20 22:33:19,684 - Found Moon Domain
+2024-06-20 22:33:19,684 - Found Druid
+2024-06-20 22:33:19,684 - Found Circle of the Blighted
+2024-06-20 22:33:19,684 - Found Circle of the Forged
+2024-06-20 22:33:19,684 - Found Fighter
+2024-06-20 22:33:19,684 - Found Gunslinger
+2024-06-20 22:33:19,684 - Found Renegade
+2024-06-20 22:33:19,684 - Found Monk
+2024-06-20 22:33:19,684 - Found Way of the Cobalt Soul
+2024-06-20 22:33:19,684 - Found Way of the Living Weapon
+2024-06-20 22:33:19,684 - Found Way of the Soul Knife
+2024-06-20 22:33:19,684 - Found Paladin
+2024-06-20 22:33:19,684 - Found Oath of the Open Sea
+2024-06-20 22:33:19,684 - Found Ranger
+2024-06-20 22:33:19,684 - Found Rogue
+2024-06-20 22:33:19,684 - Found Wild Card
+2024-06-20 22:33:19,684 - Found Sorcerer
+2024-06-20 22:33:19,685 - Found Runechild
+2024-06-20 22:33:19,685 - Found Runechild Reborn
+2024-06-20 22:33:19,685 - Found Warlock
+2024-06-20 22:33:19,685 - Found Kraken
+2024-06-20 22:33:19,685 - Found Wizard
+2024-06-20 22:33:19,685 - Found Blood Magic
+2024-06-20 22:33:19,685 - Checking Archived Unearthed Arcana
+2024-06-20 22:34:02,855 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:03,295 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:34:03,552 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:34:03,552 - Checking All Spells
+2024-06-20 22:34:03,552 - Checking All Lineages
+2024-06-20 22:34:03,552 - Checking All Lineages
+2024-06-20 22:34:03,552 - Checking Heroic Chronicle
+2024-06-20 22:34:03,552 - Checking The Artificer
+2024-06-20 22:34:03,553 - Checking The Artificer
+2024-06-20 22:34:03,553 - Checking The Barbarian
+2024-06-20 22:34:03,553 - Checking The Barbarian
+2024-06-20 22:34:03,553 - Checking The Bard
+2024-06-20 22:34:03,553 - Checking The Bard
+2024-06-20 22:34:03,553 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:34:03,553 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:34:03,553 - Checking The Cleric
+2024-06-20 22:34:03,553 - Checking The Cleric
+2024-06-20 22:34:03,553 - Checking The Druid
+2024-06-20 22:34:03,553 - Checking The Druid
+2024-06-20 22:34:03,553 - Checking The Fighter
+2024-06-20 22:34:03,553 - Checking The Fighter
+2024-06-20 22:34:03,553 - Checking The Monk
+2024-06-20 22:34:03,553 - Checking The Monk
+2024-06-20 22:34:03,553 - Checking The Paladin
+2024-06-20 22:34:03,553 - Checking The Paladin
+2024-06-20 22:34:03,553 - Checking The Ranger
+2024-06-20 22:34:03,553 - Checking The Ranger
+2024-06-20 22:34:03,553 - Checking The Rogue
+2024-06-20 22:34:03,553 - Checking The Rogue
+2024-06-20 22:34:03,554 - Checking The Sorcerer
+2024-06-20 22:34:03,554 - Checking The Sorcerer
+2024-06-20 22:34:03,554 - Checking The Warlock
+2024-06-20 22:34:03,554 - Checking The Warlock
+2024-06-20 22:34:03,554 - Checking The Wizard
+2024-06-20 22:34:03,554 - Checking The Wizard
+2024-06-20 22:34:03,554 - Checking Items
+2024-06-20 22:34:03,554 - Checking Feats
+2024-06-20 22:34:03,554 - Checking Feats
+2024-06-20 22:34:03,554 - Checking Racial Feats
+2024-06-20 22:34:03,554 - Checking Racial Feats
+2024-06-20 22:34:03,554 - Checking Miscellaneous
+2024-06-20 22:34:03,554 - Checking Homebrew Subclasses
+2024-06-20 22:34:03,554 - Found Artificer
+2024-06-20 22:34:03,554 - Found Forge Adept
+2024-06-20 22:34:03,554 - Getting class features for /artificer:forge-adept
+2024-06-20 22:34:03,556 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:04,063 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:34:04,079 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:34:04,079 - Found Mastermaker
+2024-06-20 22:34:04,079 - Getting class features for /artificer:mastermaker
+2024-06-20 22:34:04,082 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:04,680 - http://dnd5e.wikidot.com:80 "GET /artificer:mastermaker HTTP/1.1" 200 None
+2024-06-20 22:34:04,694 - Finished getting http://dnd5e.wikidot.com/artificer:mastermaker features
+2024-06-20 22:34:04,694 - Found Maverick
+2024-06-20 22:34:04,694 - Getting class features for /artificer:maverick
+2024-06-20 22:34:04,697 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:05,124 - http://dnd5e.wikidot.com:80 "GET /artificer:maverick HTTP/1.1" 200 None
+2024-06-20 22:34:05,148 - Finished getting http://dnd5e.wikidot.com/artificer:maverick features
+2024-06-20 22:34:05,149 - Found Barbarian
+2024-06-20 22:34:05,149 - Found Path of the Juggernaut
+2024-06-20 22:34:05,149 - Getting class features for /barbarian:juggernaut
+2024-06-20 22:34:05,151 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:05,603 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut HTTP/1.1" 200 None
+2024-06-20 22:34:05,616 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut features
+2024-06-20 22:34:05,616 - Found Path of the Juggernaut Reborn
+2024-06-20 22:34:05,616 - Getting class features for /barbarian:juggernaut-reborn
+2024-06-20 22:34:05,618 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:06,109 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut-reborn HTTP/1.1" 200 None
+2024-06-20 22:34:06,119 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut-reborn features
+2024-06-20 22:34:06,119 - Found Path of the Depths
+2024-06-20 22:34:06,119 - Getting class features for /barbarian:path-of-the-depths-pc
+2024-06-20 22:34:06,122 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:06,725 - http://dnd5e.wikidot.com:80 "GET /barbarian:path-of-the-depths-pc HTTP/1.1" 200 None
+2024-06-20 22:34:06,738 - Finished getting http://dnd5e.wikidot.com/barbarian:path-of-the-depths-pc features
+2024-06-20 22:34:06,739 - Found Bard
+2024-06-20 22:34:06,739 - Found College of the Dirge Singer
+2024-06-20 22:34:06,739 - Getting class features for /bard:dirge-singer
+2024-06-20 22:34:06,741 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:07,235 - http://dnd5e.wikidot.com:80 "GET /bard:dirge-singer HTTP/1.1" 200 None
+2024-06-20 22:34:07,247 - Finished getting http://dnd5e.wikidot.com/bard:dirge-singer features
+2024-06-20 22:34:07,248 - Found College of the Maestro
+2024-06-20 22:34:07,248 - Getting class features for /bard:maestro
+2024-06-20 22:34:07,250 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:07,739 - http://dnd5e.wikidot.com:80 "GET /bard:maestro HTTP/1.1" 200 None
+2024-06-20 22:34:07,752 - Finished getting http://dnd5e.wikidot.com/bard:maestro features
+2024-06-20 22:34:07,753 - Found College of Tragedy
+2024-06-20 22:34:07,753 - Getting class features for /bard:tragedy
+2024-06-20 22:34:07,755 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:08,360 - http://dnd5e.wikidot.com:80 "GET /bard:tragedy HTTP/1.1" 200 None
+2024-06-20 22:34:08,372 - Finished getting http://dnd5e.wikidot.com/bard:tragedy features
+2024-06-20 22:34:08,372 - Found Cleric
+2024-06-20 22:34:08,372 - Found Beauty Domain
+2024-06-20 22:34:08,372 - Getting class features for /cleric:beauty-hb
+2024-06-20 22:34:08,375 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:08,871 - http://dnd5e.wikidot.com:80 "GET /cleric:beauty-hb HTTP/1.1" 200 None
+2024-06-20 22:34:08,880 - Finished getting http://dnd5e.wikidot.com/cleric:beauty-hb features
+2024-06-20 22:34:08,880 - Found Blood Domain
+2024-06-20 22:34:08,880 - Getting class features for /cleric:blood
+2024-06-20 22:34:08,882 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:09,486 - http://dnd5e.wikidot.com:80 "GET /cleric:blood HTTP/1.1" 200 None
+2024-06-20 22:34:09,496 - Finished getting http://dnd5e.wikidot.com/cleric:blood features
+2024-06-20 22:34:09,497 - Found Blood Domain Reborn
+2024-06-20 22:34:09,497 - Getting class features for /cleric:blood-reborn
+2024-06-20 22:34:09,499 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:09,954 - http://dnd5e.wikidot.com:80 "GET /cleric:blood-reborn HTTP/1.1" 200 None
+2024-06-20 22:34:09,974 - Finished getting http://dnd5e.wikidot.com/cleric:blood-reborn features
+2024-06-20 22:34:09,974 - Found Mind Domain
+2024-06-20 22:34:09,974 - Getting class features for /cleric:mind
+2024-06-20 22:34:09,976 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:10,509 - http://dnd5e.wikidot.com:80 "GET /cleric:mind HTTP/1.1" 200 None
+2024-06-20 22:34:10,516 - Finished getting http://dnd5e.wikidot.com/cleric:mind features
+2024-06-20 22:34:10,516 - Found Moon Domain
+2024-06-20 22:34:10,516 - Getting class features for /cleric:moon
+2024-06-20 22:34:10,518 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:11,036 - http://dnd5e.wikidot.com:80 "GET /cleric:moon HTTP/1.1" 200 None
+2024-06-20 22:34:11,050 - Finished getting http://dnd5e.wikidot.com/cleric:moon features
+2024-06-20 22:34:11,051 - Found Druid
+2024-06-20 22:34:11,051 - Found Circle of the Blighted
+2024-06-20 22:34:11,051 - Getting class features for /druid:blighted
+2024-06-20 22:34:11,053 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:11,640 - http://dnd5e.wikidot.com:80 "GET /druid:blighted HTTP/1.1" 200 None
+2024-06-20 22:34:11,653 - Finished getting http://dnd5e.wikidot.com/druid:blighted features
+2024-06-20 22:34:11,654 - Found Circle of the Forged
+2024-06-20 22:34:11,654 - Getting class features for /druid:forged-hb
+2024-06-20 22:34:11,656 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:12,253 - http://dnd5e.wikidot.com:80 "GET /druid:forged-hb HTTP/1.1" 200 None
+2024-06-20 22:34:12,259 - Finished getting http://dnd5e.wikidot.com/druid:forged-hb features
+2024-06-20 22:34:12,259 - Found Fighter
+2024-06-20 22:34:12,259 - Found Gunslinger
+2024-06-20 22:34:12,259 - Getting class features for /fighter:gunslinger
+2024-06-20 22:34:12,261 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:12,680 - http://dnd5e.wikidot.com:80 "GET /fighter:gunslinger HTTP/1.1" 200 None
+2024-06-20 22:34:12,687 - Finished getting http://dnd5e.wikidot.com/fighter:gunslinger features
+2024-06-20 22:34:12,688 - Found Renegade
+2024-06-20 22:34:12,688 - Getting class features for /fighter:renegade
+2024-06-20 22:34:12,690 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:13,142 - http://dnd5e.wikidot.com:80 "GET /fighter:renegade HTTP/1.1" 200 None
+2024-06-20 22:34:13,151 - Finished getting http://dnd5e.wikidot.com/fighter:renegade features
+2024-06-20 22:34:13,151 - Found Monk
+2024-06-20 22:34:13,152 - Found Way of the Cobalt Soul
+2024-06-20 22:34:13,152 - Getting class features for /monk:cobalt-soul
+2024-06-20 22:34:13,154 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:13,689 - http://dnd5e.wikidot.com:80 "GET /monk:cobalt-soul HTTP/1.1" 200 None
+2024-06-20 22:34:13,702 - Finished getting http://dnd5e.wikidot.com/monk:cobalt-soul features
+2024-06-20 22:34:13,703 - Found Way of the Living Weapon
+2024-06-20 22:34:13,703 - Getting class features for /monk:living-weapon
+2024-06-20 22:34:13,705 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:14,302 - http://dnd5e.wikidot.com:80 "GET /monk:living-weapon HTTP/1.1" 200 None
+2024-06-20 22:34:14,311 - Finished getting http://dnd5e.wikidot.com/monk:living-weapon features
+2024-06-20 22:34:14,311 - Found Way of the Soul Knife
+2024-06-20 22:34:14,311 - Getting class features for /monk:soul-knife
+2024-06-20 22:34:14,313 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:14,944 - http://dnd5e.wikidot.com:80 "GET /monk:soul-knife HTTP/1.1" 200 None
+2024-06-20 22:34:14,951 - Finished getting http://dnd5e.wikidot.com/monk:soul-knife features
+2024-06-20 22:34:14,952 - Found Paladin
+2024-06-20 22:34:14,952 - Found Oath of the Open Sea
+2024-06-20 22:34:14,952 - Getting class features for /paladin:open-sea
+2024-06-20 22:34:14,954 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:15,411 - http://dnd5e.wikidot.com:80 "GET /paladin:open-sea HTTP/1.1" 200 None
+2024-06-20 22:34:15,427 - Finished getting http://dnd5e.wikidot.com/paladin:open-sea features
+2024-06-20 22:34:15,427 - Found Ranger
+2024-06-20 22:34:15,427 - Found Rogue
+2024-06-20 22:34:15,427 - Found Wild Card
+2024-06-20 22:34:15,427 - Getting class features for /rogue:wild-card
+2024-06-20 22:34:15,430 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:15,891 - http://dnd5e.wikidot.com:80 "GET /rogue:wild-card HTTP/1.1" 200 None
+2024-06-20 22:34:15,906 - Finished getting http://dnd5e.wikidot.com/rogue:wild-card features
+2024-06-20 22:34:15,906 - Found Sorcerer
+2024-06-20 22:34:15,906 - Found Runechild
+2024-06-20 22:34:15,906 - Getting class features for /sorcerer:runechild
+2024-06-20 22:34:15,909 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:16,454 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild HTTP/1.1" 200 None
+2024-06-20 22:34:16,469 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild features
+2024-06-20 22:34:16,469 - Found Runechild Reborn
+2024-06-20 22:34:16,469 - Getting class features for /sorcerer:runechild-reborn
+2024-06-20 22:34:16,472 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:16,977 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild-reborn HTTP/1.1" 200 None
+2024-06-20 22:34:16,999 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild-reborn features
+2024-06-20 22:34:16,999 - Found Warlock
+2024-06-20 22:34:16,999 - Found Kraken
+2024-06-20 22:34:16,999 - Getting class features for /warlock:kraken
+2024-06-20 22:34:17,002 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:17,459 - http://dnd5e.wikidot.com:80 "GET /warlock:kraken HTTP/1.1" 200 None
+2024-06-20 22:34:17,472 - Finished getting http://dnd5e.wikidot.com/warlock:kraken features
+2024-06-20 22:34:17,473 - Found Wizard
+2024-06-20 22:34:17,473 - Found Blood Magic
+2024-06-20 22:34:17,473 - Getting class features for /wizard:blood-magic
+2024-06-20 22:34:17,476 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:17,962 - http://dnd5e.wikidot.com:80 "GET /wizard:blood-magic HTTP/1.1" 200 None
+2024-06-20 22:34:17,972 - Finished getting http://dnd5e.wikidot.com/wizard:blood-magic features
+2024-06-20 22:34:17,972 - Checking Archived Unearthed Arcana
+2024-06-20 22:34:59,122 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:34:59,550 - http://dnd5e.wikidot.com:80 "GET / HTTP/1.1" 200 None
+2024-06-20 22:34:59,803 - Checking Welcome to this Dungeons & Dragons 5th Edition wiki.
+2024-06-20 22:34:59,803 - Checking All Spells
+2024-06-20 22:34:59,803 - Checking All Lineages
+2024-06-20 22:34:59,803 - Checking All Lineages
+2024-06-20 22:34:59,803 - Checking Heroic Chronicle
+2024-06-20 22:34:59,803 - Checking The Artificer
+2024-06-20 22:34:59,803 - Checking The Artificer
+2024-06-20 22:34:59,803 - Checking The Barbarian
+2024-06-20 22:34:59,803 - Checking The Barbarian
+2024-06-20 22:34:59,803 - Checking The Bard
+2024-06-20 22:34:59,804 - Checking The Bard
+2024-06-20 22:34:59,804 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:34:59,804 - Checking The Blood Hunter (Homebrew)
+2024-06-20 22:34:59,804 - Checking The Cleric
+2024-06-20 22:34:59,804 - Checking The Cleric
+2024-06-20 22:34:59,804 - Checking The Druid
+2024-06-20 22:34:59,804 - Checking The Druid
+2024-06-20 22:34:59,804 - Checking The Fighter
+2024-06-20 22:34:59,804 - Checking The Fighter
+2024-06-20 22:34:59,804 - Checking The Monk
+2024-06-20 22:34:59,804 - Checking The Monk
+2024-06-20 22:34:59,804 - Checking The Paladin
+2024-06-20 22:34:59,804 - Checking The Paladin
+2024-06-20 22:34:59,804 - Checking The Ranger
+2024-06-20 22:34:59,804 - Checking The Ranger
+2024-06-20 22:34:59,804 - Checking The Rogue
+2024-06-20 22:34:59,804 - Checking The Rogue
+2024-06-20 22:34:59,804 - Checking The Sorcerer
+2024-06-20 22:34:59,804 - Checking The Sorcerer
+2024-06-20 22:34:59,804 - Checking The Warlock
+2024-06-20 22:34:59,805 - Checking The Warlock
+2024-06-20 22:34:59,805 - Checking The Wizard
+2024-06-20 22:34:59,805 - Checking The Wizard
+2024-06-20 22:34:59,805 - Checking Items
+2024-06-20 22:34:59,805 - Checking Feats
+2024-06-20 22:34:59,805 - Checking Feats
+2024-06-20 22:34:59,805 - Checking Racial Feats
+2024-06-20 22:34:59,805 - Checking Racial Feats
+2024-06-20 22:34:59,805 - Checking Miscellaneous
+2024-06-20 22:34:59,805 - Checking Homebrew Subclasses
+2024-06-20 22:34:59,805 - Found Artificer
+2024-06-20 22:34:59,805 - Getting subclass features for Artificer
+2024-06-20 22:34:59,805 - Found Forge Adept
+2024-06-20 22:34:59,805 - Getting class features for /artificer:forge-adept
+2024-06-20 22:34:59,807 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:00,270 - http://dnd5e.wikidot.com:80 "GET /artificer:forge-adept HTTP/1.1" 200 None
+2024-06-20 22:35:00,287 - Finished getting http://dnd5e.wikidot.com/artificer:forge-adept features
+2024-06-20 22:35:00,287 - Found Mastermaker
+2024-06-20 22:35:00,287 - Getting class features for /artificer:mastermaker
+2024-06-20 22:35:00,290 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:00,810 - http://dnd5e.wikidot.com:80 "GET /artificer:mastermaker HTTP/1.1" 200 None
+2024-06-20 22:35:00,826 - Finished getting http://dnd5e.wikidot.com/artificer:mastermaker features
+2024-06-20 22:35:00,826 - Found Maverick
+2024-06-20 22:35:00,826 - Getting class features for /artificer:maverick
+2024-06-20 22:35:00,828 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:01,260 - http://dnd5e.wikidot.com:80 "GET /artificer:maverick HTTP/1.1" 200 None
+2024-06-20 22:35:01,269 - Finished getting http://dnd5e.wikidot.com/artificer:maverick features
+2024-06-20 22:35:01,270 - Found Barbarian
+2024-06-20 22:35:01,270 - Getting subclass features for Barbarian
+2024-06-20 22:35:01,270 - Found Path of the Juggernaut
+2024-06-20 22:35:01,270 - Getting class features for /barbarian:juggernaut
+2024-06-20 22:35:01,272 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:01,735 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut HTTP/1.1" 200 None
+2024-06-20 22:35:01,748 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut features
+2024-06-20 22:35:01,749 - Found Path of the Juggernaut Reborn
+2024-06-20 22:35:01,749 - Getting class features for /barbarian:juggernaut-reborn
+2024-06-20 22:35:01,751 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:02,211 - http://dnd5e.wikidot.com:80 "GET /barbarian:juggernaut-reborn HTTP/1.1" 200 None
+2024-06-20 22:35:02,226 - Finished getting http://dnd5e.wikidot.com/barbarian:juggernaut-reborn features
+2024-06-20 22:35:02,226 - Found Path of the Depths
+2024-06-20 22:35:02,226 - Getting class features for /barbarian:path-of-the-depths-pc
+2024-06-20 22:35:02,228 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:02,700 - http://dnd5e.wikidot.com:80 "GET /barbarian:path-of-the-depths-pc HTTP/1.1" 200 None
+2024-06-20 22:35:02,717 - Finished getting http://dnd5e.wikidot.com/barbarian:path-of-the-depths-pc features
+2024-06-20 22:35:02,717 - Found Bard
+2024-06-20 22:35:02,717 - Getting subclass features for Bard
+2024-06-20 22:35:02,717 - Found College of the Dirge Singer
+2024-06-20 22:35:02,717 - Getting class features for /bard:dirge-singer
+2024-06-20 22:35:02,719 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:03,247 - http://dnd5e.wikidot.com:80 "GET /bard:dirge-singer HTTP/1.1" 200 None
+2024-06-20 22:35:03,262 - Finished getting http://dnd5e.wikidot.com/bard:dirge-singer features
+2024-06-20 22:35:03,262 - Found College of the Maestro
+2024-06-20 22:35:03,262 - Getting class features for /bard:maestro
+2024-06-20 22:35:03,263 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:03,818 - http://dnd5e.wikidot.com:80 "GET /bard:maestro HTTP/1.1" 200 None
+2024-06-20 22:35:03,834 - Finished getting http://dnd5e.wikidot.com/bard:maestro features
+2024-06-20 22:35:03,834 - Found College of Tragedy
+2024-06-20 22:35:03,834 - Getting class features for /bard:tragedy
+2024-06-20 22:35:03,835 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:04,374 - http://dnd5e.wikidot.com:80 "GET /bard:tragedy HTTP/1.1" 200 None
+2024-06-20 22:35:04,385 - Finished getting http://dnd5e.wikidot.com/bard:tragedy features
+2024-06-20 22:35:04,385 - Found Cleric
+2024-06-20 22:35:04,385 - Getting subclass features for Cleric
+2024-06-20 22:35:04,386 - Found Beauty Domain
+2024-06-20 22:35:04,386 - Getting class features for /cleric:beauty-hb
+2024-06-20 22:35:04,387 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:04,885 - http://dnd5e.wikidot.com:80 "GET /cleric:beauty-hb HTTP/1.1" 200 None
+2024-06-20 22:35:04,900 - Finished getting http://dnd5e.wikidot.com/cleric:beauty-hb features
+2024-06-20 22:35:04,900 - Found Blood Domain
+2024-06-20 22:35:04,900 - Getting class features for /cleric:blood
+2024-06-20 22:35:04,901 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:05,450 - http://dnd5e.wikidot.com:80 "GET /cleric:blood HTTP/1.1" 200 None
+2024-06-20 22:35:05,462 - Finished getting http://dnd5e.wikidot.com/cleric:blood features
+2024-06-20 22:35:05,462 - Found Blood Domain Reborn
+2024-06-20 22:35:05,463 - Getting class features for /cleric:blood-reborn
+2024-06-20 22:35:05,465 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:06,014 - http://dnd5e.wikidot.com:80 "GET /cleric:blood-reborn HTTP/1.1" 200 None
+2024-06-20 22:35:06,027 - Finished getting http://dnd5e.wikidot.com/cleric:blood-reborn features
+2024-06-20 22:35:06,027 - Found Mind Domain
+2024-06-20 22:35:06,027 - Getting class features for /cleric:mind
+2024-06-20 22:35:06,029 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:06,503 - http://dnd5e.wikidot.com:80 "GET /cleric:mind HTTP/1.1" 200 None
+2024-06-20 22:35:06,532 - Finished getting http://dnd5e.wikidot.com/cleric:mind features
+2024-06-20 22:35:06,532 - Found Moon Domain
+2024-06-20 22:35:06,532 - Getting class features for /cleric:moon
+2024-06-20 22:35:06,534 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:07,136 - http://dnd5e.wikidot.com:80 "GET /cleric:moon HTTP/1.1" 200 None
+2024-06-20 22:35:07,159 - Finished getting http://dnd5e.wikidot.com/cleric:moon features
+2024-06-20 22:35:07,159 - Found Druid
+2024-06-20 22:35:07,159 - Getting subclass features for Druid
+2024-06-20 22:35:07,159 - Found Circle of the Blighted
+2024-06-20 22:35:07,159 - Getting class features for /druid:blighted
+2024-06-20 22:35:07,160 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:07,617 - http://dnd5e.wikidot.com:80 "GET /druid:blighted HTTP/1.1" 200 None
+2024-06-20 22:35:07,636 - Finished getting http://dnd5e.wikidot.com/druid:blighted features
+2024-06-20 22:35:07,636 - Found Circle of the Forged
+2024-06-20 22:35:07,636 - Getting class features for /druid:forged-hb
+2024-06-20 22:35:07,637 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:08,170 - http://dnd5e.wikidot.com:80 "GET /druid:forged-hb HTTP/1.1" 200 None
+2024-06-20 22:35:08,182 - Finished getting http://dnd5e.wikidot.com/druid:forged-hb features
+2024-06-20 22:35:08,182 - Found Fighter
+2024-06-20 22:35:08,182 - Getting subclass features for Fighter
+2024-06-20 22:35:08,182 - Found Gunslinger
+2024-06-20 22:35:08,182 - Getting class features for /fighter:gunslinger
+2024-06-20 22:35:08,184 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:08,608 - http://dnd5e.wikidot.com:80 "GET /fighter:gunslinger HTTP/1.1" 200 None
+2024-06-20 22:35:08,626 - Finished getting http://dnd5e.wikidot.com/fighter:gunslinger features
+2024-06-20 22:35:08,626 - Found Renegade
+2024-06-20 22:35:08,626 - Getting class features for /fighter:renegade
+2024-06-20 22:35:08,628 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:09,077 - http://dnd5e.wikidot.com:80 "GET /fighter:renegade HTTP/1.1" 200 None
+2024-06-20 22:35:09,088 - Finished getting http://dnd5e.wikidot.com/fighter:renegade features
+2024-06-20 22:35:09,088 - Found Monk
+2024-06-20 22:35:09,088 - Getting subclass features for Monk
+2024-06-20 22:35:09,088 - Found Way of the Cobalt Soul
+2024-06-20 22:35:09,088 - Getting class features for /monk:cobalt-soul
+2024-06-20 22:35:09,090 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:09,565 - http://dnd5e.wikidot.com:80 "GET /monk:cobalt-soul HTTP/1.1" 200 None
+2024-06-20 22:35:09,591 - Finished getting http://dnd5e.wikidot.com/monk:cobalt-soul features
+2024-06-20 22:35:09,591 - Found Way of the Living Weapon
+2024-06-20 22:35:09,591 - Getting class features for /monk:living-weapon
+2024-06-20 22:35:09,592 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:10,060 - http://dnd5e.wikidot.com:80 "GET /monk:living-weapon HTTP/1.1" 200 None
+2024-06-20 22:35:10,073 - Finished getting http://dnd5e.wikidot.com/monk:living-weapon features
+2024-06-20 22:35:10,073 - Found Way of the Soul Knife
+2024-06-20 22:35:10,073 - Getting class features for /monk:soul-knife
+2024-06-20 22:35:10,075 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:10,623 - http://dnd5e.wikidot.com:80 "GET /monk:soul-knife HTTP/1.1" 200 None
+2024-06-20 22:35:10,638 - Finished getting http://dnd5e.wikidot.com/monk:soul-knife features
+2024-06-20 22:35:10,638 - Found Paladin
+2024-06-20 22:35:10,638 - Getting subclass features for Paladin
+2024-06-20 22:35:10,638 - Found Oath of the Open Sea
+2024-06-20 22:35:10,638 - Getting class features for /paladin:open-sea
+2024-06-20 22:35:10,640 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:11,233 - http://dnd5e.wikidot.com:80 "GET /paladin:open-sea HTTP/1.1" 200 None
+2024-06-20 22:35:11,248 - Finished getting http://dnd5e.wikidot.com/paladin:open-sea features
+2024-06-20 22:35:11,248 - Found Ranger
+2024-06-20 22:35:11,248 - Getting subclass features for Ranger
+2024-06-20 22:35:11,248 - Found Rogue
+2024-06-20 22:35:11,248 - Getting subclass features for Rogue
+2024-06-20 22:35:11,248 - Found Wild Card
+2024-06-20 22:35:11,248 - Getting class features for /rogue:wild-card
+2024-06-20 22:35:11,250 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:11,745 - http://dnd5e.wikidot.com:80 "GET /rogue:wild-card HTTP/1.1" 200 None
+2024-06-20 22:35:11,757 - Finished getting http://dnd5e.wikidot.com/rogue:wild-card features
+2024-06-20 22:35:11,757 - Found Sorcerer
+2024-06-20 22:35:11,757 - Getting subclass features for Sorcerer
+2024-06-20 22:35:11,757 - Found Runechild
+2024-06-20 22:35:11,757 - Getting class features for /sorcerer:runechild
+2024-06-20 22:35:11,759 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:12,260 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild HTTP/1.1" 200 None
+2024-06-20 22:35:12,276 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild features
+2024-06-20 22:35:12,276 - Found Runechild Reborn
+2024-06-20 22:35:12,276 - Getting class features for /sorcerer:runechild-reborn
+2024-06-20 22:35:12,277 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:12,840 - http://dnd5e.wikidot.com:80 "GET /sorcerer:runechild-reborn HTTP/1.1" 200 None
+2024-06-20 22:35:12,851 - Finished getting http://dnd5e.wikidot.com/sorcerer:runechild-reborn features
+2024-06-20 22:35:12,851 - Found Warlock
+2024-06-20 22:35:12,851 - Getting subclass features for Warlock
+2024-06-20 22:35:12,851 - Found Kraken
+2024-06-20 22:35:12,851 - Getting class features for /warlock:kraken
+2024-06-20 22:35:12,852 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:13,486 - http://dnd5e.wikidot.com:80 "GET /warlock:kraken HTTP/1.1" 200 None
+2024-06-20 22:35:13,497 - Finished getting http://dnd5e.wikidot.com/warlock:kraken features
+2024-06-20 22:35:13,497 - Found Wizard
+2024-06-20 22:35:13,498 - Getting subclass features for Wizard
+2024-06-20 22:35:13,498 - Found Blood Magic
+2024-06-20 22:35:13,498 - Getting class features for /wizard:blood-magic
+2024-06-20 22:35:13,500 - Starting new HTTP connection (1): dnd5e.wikidot.com:80
+2024-06-20 22:35:14,000 - http://dnd5e.wikidot.com:80 "GET /wizard:blood-magic HTTP/1.1" 200 None
+2024-06-20 22:35:14,013 - Finished getting http://dnd5e.wikidot.com/wizard:blood-magic features
+2024-06-20 22:35:14,014 - Getting subclass features for 
+2024-06-20 22:35:14,014 - Getting subclass features for 
+2024-06-20 22:35:14,014 - Checking Archived Unearthed Arcana
